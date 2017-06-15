@@ -29,3 +29,12 @@ This is a lovely cat.
 - [x] 任务一：编辑
 - [ ] 任务二：提交
 - [ ] 任务三：下载
+## 代码块
+### Forexample:
+```c
+#include <stdio.h>
+
+int main (void){
+    return 0;
+}
+```
