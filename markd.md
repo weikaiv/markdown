@@ -4,8 +4,8 @@
   My name is **wei**.
 ## 无序列表
 ### Forexample:
-  - 学生
-  * 老师
+- 学生
+* 老师
 ## 有序列表
 ### Forexample:
   1. 学生
