@@ -19,4 +19,4 @@
 ## 有序列表
 ### Forexample:
 This is a lovely cat.
-![img of cat](https://octodex.github.com/maxtocat)
+![img of cat](https://octodex.github.com/images/maxtocat.png)
