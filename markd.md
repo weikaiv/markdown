@@ -40,7 +40,7 @@ int main (void){
 ```
 ## Emoji表情
 ### Forexample:
-@octocat  :simple_smile: This PR looks great - it's ready to merge! :shipit:
+@octocat :simple_smile: 今天心情真是好！ :heart:
 ## 表格
 ### Forexample:
 学号 | 课程号 | 分数
