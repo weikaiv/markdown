@@ -38,4 +38,11 @@ int main (void){
     return 0;
 }
 ```
+## Emoji表情
+### Forexample:
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+## 表格
+### Forexample:
+学号 | 课程号 | 分数
+-----|-------|----|
+0001 | 0005 | 90
