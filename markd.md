@@ -40,7 +40,7 @@ int main (void){
 ```
 ## Emoji表情
 ### Forexample:
-@octocat :smiley: 今天心情真是好！ :heart: :heart: :heart: :heart:
+@小燕子 :smiley: 今天心情真是好！ :heart: :heart: :heart: :heart:
 ## 表格
 ### Forexample:
 学号 | 课程号 | 分数
